@@ -16,10 +16,6 @@
           transition to working more in the frontend, I want to share my
           experiences and learnings here in this blog.
         </p>
-        <p class="pt-3">
-          Hope you enjoy reading here and will have something
-          new learned.
-        </p>
       </div>
     </div>
   </section>
