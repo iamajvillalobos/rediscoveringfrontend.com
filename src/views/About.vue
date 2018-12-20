@@ -3,7 +3,7 @@
     <div class="pt-8 flex flex-col">
       <img :src="`${baseUrl}avatar.jpg`" alt="image of me" class="h-auto w-1/2 self-center">
 
-      <div class="sm:px-8 pt-8">
+      <div class="xs:px-8 pt-8">
         <p>Hey there! 👋 I'm AJ. I'm a web developer from Manila, Philippines.</p>
         <p class="pt-3">
           I love how exciting 🤩 front-end web development these days.
