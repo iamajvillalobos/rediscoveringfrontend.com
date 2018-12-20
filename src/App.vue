@@ -1,12 +1,20 @@
 <template>
   <div class="font-sans">
-    <div>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+    <NavigationHeader/>
   </div>
 </template>
+
+<script>
+import NavigationHeader from "./components/NavigationHeader";
+
+export default {
+  name: "App",
+  components: {
+    NavigationHeader
+  }
+};
+</script>
+
 
 <style lang="scss">
 @tailwind preflight;
