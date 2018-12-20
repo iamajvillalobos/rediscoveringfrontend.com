@@ -1,6 +1,7 @@
 <template>
   <div class="font-sans">
     <NavigationHeader/>
+    <router-view/>
   </div>
 </template>
 
