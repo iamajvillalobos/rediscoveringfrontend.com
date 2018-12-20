@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-white shadow py-12">
+  <header class="bg-white py-12 border-b-2 border-green">
     <!-- Logo -->
     <div class="container mx-auto flex justify-center">
       <router-link class="no-underline text-grey-darkest" to="/">

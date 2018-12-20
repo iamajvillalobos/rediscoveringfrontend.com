@@ -1,5 +1,5 @@
 <template>
-  <div class="font-sans bg-grey-lightest h-screen border-t-2 border-green">
+  <div class="font-sans bg-white">
     <NavigationHeader/>
     <router-view/>
   </div>
