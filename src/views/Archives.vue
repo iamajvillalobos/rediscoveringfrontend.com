@@ -1,3 +1,3 @@
 <template>
-  <h1>Archives</h1>
+  <section class="max-w-lg mx-auto"></section>
 </template>
